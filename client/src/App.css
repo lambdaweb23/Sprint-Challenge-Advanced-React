@@ -15,7 +15,7 @@ DarkMode */
 
 .navbar {
   align-items: center;
-  background-color: palevioletred;
+  background-color: lightskyblue;
   border-bottom: 1px solid rgb(221, 221, 221);
   display: flex;
   height: 70px;
@@ -37,7 +37,7 @@ DarkMode */
 }
 
 .toggle {
-  background: pink;
+  background: lightblue;
   border-radius: 50px;
   height: 18px;
   left: 0;
